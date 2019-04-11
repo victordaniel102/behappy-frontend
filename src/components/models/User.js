@@ -1,6 +1,6 @@
 import Avatar from "./Avatar";
 
-import Repository from "../infrastructure/Repository";
+import Repository from "../../infrastructure/Repository.js";
 
 const repository = new Repository();
 

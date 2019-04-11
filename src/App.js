@@ -6,7 +6,7 @@ import Header from "./components/Header";
 import NewUser from "./components/NewUser";
 import Toast from "./components/Toast";
 
-import User from "./models/User";
+import User from "./components/models/User.js";
 
 class App extends Component {
   constructor(props) {
